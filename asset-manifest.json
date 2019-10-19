@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.js": "/penguins-agram/static/js/main.d854a7d4.chunk.js",
-    "main.js.map": "/penguins-agram/static/js/main.d854a7d4.chunk.js.map",
+    "main.css": "/penguins-agram/static/css/main.95f6650c.chunk.css",
+    "main.js": "/penguins-agram/static/js/main.af00e7cb.chunk.js",
+    "main.js.map": "/penguins-agram/static/js/main.af00e7cb.chunk.js.map",
     "runtime-main.js": "/penguins-agram/static/js/runtime-main.d3fd289f.js",
     "runtime-main.js.map": "/penguins-agram/static/js/runtime-main.d3fd289f.js.map",
-    "static/js/2.39ceb3fc.chunk.js": "/penguins-agram/static/js/2.39ceb3fc.chunk.js",
-    "static/js/2.39ceb3fc.chunk.js.map": "/penguins-agram/static/js/2.39ceb3fc.chunk.js.map",
+    "static/js/2.c9db34c1.chunk.js": "/penguins-agram/static/js/2.c9db34c1.chunk.js",
+    "static/js/2.c9db34c1.chunk.js.map": "/penguins-agram/static/js/2.c9db34c1.chunk.js.map",
     "index.html": "/penguins-agram/index.html",
-    "precache-manifest.5393b42d9d9a8dd7b942af28a9dfa504.js": "/penguins-agram/precache-manifest.5393b42d9d9a8dd7b942af28a9dfa504.js",
-    "service-worker.js": "/penguins-agram/service-worker.js"
+    "precache-manifest.57d1dd1a533d9b4f63fd70169f6bafba.js": "/penguins-agram/precache-manifest.57d1dd1a533d9b4f63fd70169f6bafba.js",
+    "service-worker.js": "/penguins-agram/service-worker.js",
+    "static/css/main.95f6650c.chunk.css.map": "/penguins-agram/static/css/main.95f6650c.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.d3fd289f.js",
-    "static/js/2.39ceb3fc.chunk.js",
-    "static/js/main.d854a7d4.chunk.js"
+    "static/js/2.c9db34c1.chunk.js",
+    "static/css/main.95f6650c.chunk.css",
+    "static/js/main.af00e7cb.chunk.js"
   ]
 }
