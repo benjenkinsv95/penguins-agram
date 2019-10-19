@@ -1,7 +1,7 @@
 {
   "name": "penguins-agram",
   "version": "0.1.0",
-  "homepage": "http://benjenkinsv95.github.io/penguins-agram",
+  "homepage": "https://benjenkinsv95.github.io/penguins-agram",
   "private": true,
   "dependencies": {
     "@types/jest": "24.0.19",
