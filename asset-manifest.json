@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/penguins-agram/static/css/main.dfca195d.chunk.css",
+    "main.js": "/penguins-agram/static/js/main.579eac79.chunk.js",
+    "main.js.map": "/penguins-agram/static/js/main.579eac79.chunk.js.map",
+    "runtime-main.js": "/penguins-agram/static/js/runtime-main.d3fd289f.js",
+    "runtime-main.js.map": "/penguins-agram/static/js/runtime-main.d3fd289f.js.map",
+    "static/js/2.f3bd4a70.chunk.js": "/penguins-agram/static/js/2.f3bd4a70.chunk.js",
+    "static/js/2.f3bd4a70.chunk.js.map": "/penguins-agram/static/js/2.f3bd4a70.chunk.js.map",
+    "index.html": "/penguins-agram/index.html",
+    "precache-manifest.5a560b091529073e31b8c24fc8f7bc0c.js": "/penguins-agram/precache-manifest.5a560b091529073e31b8c24fc8f7bc0c.js",
+    "service-worker.js": "/penguins-agram/service-worker.js",
+    "static/css/main.dfca195d.chunk.css.map": "/penguins-agram/static/css/main.dfca195d.chunk.css.map",
+    "static/media/logo.svg": "/penguins-agram/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3fd289f.js",
+    "static/js/2.f3bd4a70.chunk.js",
+    "static/css/main.dfca195d.chunk.css",
+    "static/js/main.579eac79.chunk.js"
+  ]
+}
