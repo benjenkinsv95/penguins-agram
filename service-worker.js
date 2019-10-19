@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/penguins-agram/precache-manifest.5a560b091529073e31b8c24fc8f7bc0c.js"
+  "/penguins-agram/precache-manifest.5393b42d9d9a8dd7b942af28a9dfa504.js"
 );
 
 self.addEventListener('message', (event) => {
