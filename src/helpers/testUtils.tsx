@@ -8,3 +8,5 @@ export const itRendersWithoutCrashing = (component: JSX.Element | React.DOMEleme
         ReactDOM.unmountComponentAtNode(div);
     });
 }
+
+export const findByTestAttr = (component, attr) => component.find(`[data-test='${attr}']`)
